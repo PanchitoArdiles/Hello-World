@@ -7,7 +7,7 @@ Mi primer repositorio en Git-Hub
 
 <h3>Este es un Sub-Titulo </h3>
 <br>
-<p>Favor su Auyuda para poder Aprender </p>
+<p>Favor su Ayuda para poder Aprender </p>
 
 Saludos. <br>
 Panchito <br>
