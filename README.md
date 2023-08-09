@@ -9,5 +9,5 @@ Mi primer repositorio en Git-Hub
 <br>
 <p>Favor su Auyuda para poder Aprender </p>
 
-Saludos <br>
+Saludos. <br>
 Panchito <br>
