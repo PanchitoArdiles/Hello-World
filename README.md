@@ -13,3 +13,5 @@ Console.log("Saludos desde Ultron")
 
 Saludos. <br>
 Panchito <br>
+
+<input type="text" placeholder="Ingrese datos">
